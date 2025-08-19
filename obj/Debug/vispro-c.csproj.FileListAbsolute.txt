@@ -1,0 +1,8 @@
+D:\UNKLAB\2025-2026 Sem 1\vispro\C\vispro-c\vispro-c\bin\Debug\vispro-c.exe.config
+D:\UNKLAB\2025-2026 Sem 1\vispro\C\vispro-c\vispro-c\bin\Debug\vispro-c.exe
+D:\UNKLAB\2025-2026 Sem 1\vispro\C\vispro-c\vispro-c\bin\Debug\vispro-c.pdb
+D:\UNKLAB\2025-2026 Sem 1\vispro\C\vispro-c\vispro-c\obj\Debug\vispro-c.csproj.AssemblyReference.cache
+D:\UNKLAB\2025-2026 Sem 1\vispro\C\vispro-c\vispro-c\obj\Debug\vispro-c.csproj.CoreCompileInputs.cache
+D:\UNKLAB\2025-2026 Sem 1\vispro\C\vispro-c\vispro-c\obj\Debug\vispro-c.exe
+D:\UNKLAB\2025-2026 Sem 1\vispro\C\vispro-c\vispro-c\obj\Debug\vispro-c.pdb
+D:\UNKLAB\2025-2026 Sem 1\vispro\C\vispro-c\vispro-c\obj\Debug\vispro-c.exe.config
