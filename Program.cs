@@ -15,6 +15,31 @@ namespace vispro_c
             //Console.Write("Masukkan nama anda : ");
             //nama = Console.ReadLine();
             //Console.WriteLine("Hallo {0}", nama);
+
+            segitiga();
+        }
+
+        static void segitiga()
+        {
+            Console.WriteLine("Menu Segitiga");
+            Console.WriteLine("1. Rata Kiri");
+            Console.WriteLine("2. Rata Kanan");
+            Console.WriteLine("3. Rata Tengah");
+
+            Console.Write("Input angka : ");
+            int num = Convert.ToInt32(Console.ReadLine());
+            for (int i = 1; i <= num; i++)
+            {
+                for (int j = 1; j <= i; j++)
+                {
+                    Console.Write("*");
+                }
+                Console.WriteLine();
+            }
+        }
+
+        static void calculator()
+        {
             try
             {
 
@@ -62,10 +87,10 @@ namespace vispro_c
                 }
 
             }
-            catch (Exception ex) { 
+            catch (Exception ex)
+            {
                 Console.WriteLine(ex.ToString());
             }
-            
         }
     }
 }
